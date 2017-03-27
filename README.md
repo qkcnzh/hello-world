@@ -1,2 +1,3 @@
 # hello-world
-first test
+Hi humans!
+Kaichao qu here.I'm a undergraduate in China.
